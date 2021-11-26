@@ -1,0 +1,8 @@
+com\webshop\pages\LandingPage.class
+com\webshop\pages\Common.class
+main\java\com\webshop\pages\Registration.class
+com\webshop\pages\ShoppingCart.class
+com\webshop\pages\Shop.class
+utility\data.class
+com\webshop\pages\Login.class
+com\webshop\pages\Checkout.class
