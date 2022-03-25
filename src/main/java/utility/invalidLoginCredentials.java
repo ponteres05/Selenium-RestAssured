@@ -18,7 +18,7 @@ public class invalidLoginCredentials {
         //fileInputStream argument
         ArrayList<String> a=new ArrayList<String>();
 
-        FileInputStream fis=new FileInputStream("C://Users//Lenovo//Desktop//invalidLoginCredentials.xlsx");
+        FileInputStream fis=new FileInputStream("./invalidLoginCredentials.xlsx");
         XSSFWorkbook workbook=new XSSFWorkbook(fis);
 
         int sheets=workbook.getNumberOfSheets();
